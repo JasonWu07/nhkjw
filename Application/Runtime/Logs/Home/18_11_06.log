@@ -1,0 +1,1093 @@
+[ 2018-11-06T01:15:10+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0023s ]
+
+[ 2018-11-06T01:15:25+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '123' AND `userPwd` = '123' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-11-06T01:16:36+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '123' AND `userPwd` = '123' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-11-06T01:26:40+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-11-06T18:12:48+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2018-11-06T18:41:43+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+NOTIC: [8] Undefined variable: userName J:\xampp\htdocs\NHKJW\Application\Home\Controller\IndexController.class.php 第 42 行.
+
+[ 2018-11-06T18:43:03+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+
+[ 2018-11-06T18:44:03+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009358s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0015s ]
+
+[ 2018-11-06T18:45:15+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '123' AND `userPwd` = '123' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-11-06T18:45:23+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+
+[ 2018-11-06T18:45:36+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+
+[ 2018-11-06T18:45:44+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000731s ]
+
+[ 2018-11-06T18:45:55+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-11-06T18:45:59+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+
+[ 2018-11-06T18:47:23+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+
+[ 2018-11-06T18:47:34+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-11-06T18:47:52+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001834s ]
+
+[ 2018-11-06T18:48:37+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0028s ]
+
+[ 2018-11-06T18:48:39+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+
+[ 2018-11-06T18:48:58+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+
+[ 2018-11-06T18:49:34+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2018-11-06T18:49:35+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+
+[ 2018-11-06T18:50:08+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0016s ]
+
+[ 2018-11-06T18:50:10+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+
+[ 2018-11-06T18:52:02+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002226s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-11-06T18:52:03+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+
+[ 2018-11-06T18:54:21+08:00 ] ::1 /nhkjw/index.php/Home/index/modify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+
+[ 2018-11-06T19:41:57+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-11-06T19:45:47+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008165s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0157s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2018-11-06T21:37:18+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-11-06T22:56:33+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0007s ]
+
+[ 2018-11-06T22:56:56+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T22:59:57+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005750s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0006s ]
+
+[ 2018-11-06T23:00:46+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001241s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:00:51+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:01:16+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:01:24+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:01:31+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:01:35+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:01:42+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:01:46+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0006s ]
+
+[ 2018-11-06T23:01:50+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000487s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:01:55+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0006s ]
+
+[ 2018-11-06T23:01:59+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:02:07+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:04:31+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:04:37+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000442s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:04:42+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:05:22+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:05:22+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:05:49+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:05:53+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0297s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0023s ]
+
+[ 2018-11-06T23:06:01+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:06:10+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:06:20+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:06:22+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0006s ]
+
+[ 2018-11-06T23:06:26+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:06:28+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:06:30+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:07:02+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:07:07+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:07:12+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:07:15+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:07:19+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0008s ]
+
+[ 2018-11-06T23:07:21+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001472s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0009s ]
+
+[ 2018-11-06T23:07:26+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0006s ]
+
+[ 2018-11-06T23:09:02+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:09:03+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:09:15+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:10:25+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:11:35+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:14:40+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:15:25+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:15:52+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:16:10+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001626s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:18:19+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 4  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:18:42+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:18:46+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:18:49+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:19:00+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:19:12+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:19:26+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:19:30+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:19:32+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 2  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:19:38+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:19:39+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0032s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:19:41+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:25:00+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:25:02+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:25:25+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:25:29+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:27:30+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:27:35+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:35:05+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:35:05+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:35:29+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:35:32+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:35:59+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:36:02+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:37:15+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0009s ]
+
+[ 2018-11-06T23:37:47+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:37:48+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:37:58+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:38:05+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:38:14+08:00 ] ::1 /nhkjw/index.php/Home/index/yunshichang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `vue-software`  [ RunTime:0.0004s ]
+
+[ 2018-11-06T23:39:11+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:39:23+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 18  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:39:29+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 18  [ RunTime:0.0005s ]
+
+[ 2018-11-06T23:39:48+08:00 ] ::1 /nhkjw/index.php/Home/index/priducttow
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `vue-software` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-software` WHERE `id` = 18  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:40:13+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0006s ]
+
+[ 2018-11-06T23:40:16+08:00 ] ::1 /nhkjw/index.php/Home/index/goumai
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `vue-productlist` WHERE `id` = 1  [ RunTime:0.0003s ]
+
+[ 2018-11-06T23:40:20+08:00 ] ::1 /nhkjw/index.php/Home/index/ceshi
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+SQL: SHOW COLUMNS FROM `vue-productlist` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `vue-productlist`  [ RunTime:0.0005s ]
+

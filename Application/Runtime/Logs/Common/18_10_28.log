@@ -1,0 +1,12 @@
+[ 2018-10-28T13:27:31+08:00 ] ::1 /vue-my/ADMIN_PUBLIC/images/notice.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+ERR: 无法加载模块:ADMIN_PUBLIC
+
+[ 2018-10-28T13:29:06+08:00 ] ::1 /vue-my/ADMIN_PUBLIC/images/notice.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:ADMIN_PUBLIC
+

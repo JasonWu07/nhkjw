@@ -1,0 +1,10 @@
+[ 2018-11-05T00:37:07+08:00 ] ::1 /nhkjw/index.php/Home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+SQL: SHOW COLUMNS FROM `vue-user` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `vue-user` WHERE `userName` = '333' AND `userPwd` = '333' LIMIT 1   [ RunTime:0.0005s ]
+
